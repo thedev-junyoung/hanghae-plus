@@ -1,0 +1,9 @@
+[submodule "hanghae-plus-1wd"]
+	path = hanghae-plus-1wd
+	url = https://github.com/thedev-junyoung/hanghae-plus-1wd.git
+[submodule "hanghae-plus-2wd"]
+	path = hanghae-plus-2wd
+	url = https://github.com/thedev-junyoung/hanghae-plus-2wd.git
+[submodule "hanghae-plus-3wd"]
+	path = hanghae-plus-3wd
+	url = https://github.com/thedev-junyoung/hanghae-plus-3wd.git

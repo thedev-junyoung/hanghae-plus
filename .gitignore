@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# Java build
+/build/
+*/build/
+
+# Gradle
+.gradle
+**/gradle-app.setting
+**/gradlew
+**/gradlew.bat
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Others (optional)
+.env
+
