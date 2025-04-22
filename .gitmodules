@@ -15,4 +15,5 @@
 [submodule "hanghae-plus-5wd"]
 	path = hanghae-plus-5wd
 	url = https://github.com/thedev-junyoung/hanghae-plus-5wd.git
+	branch = main
 
