@@ -17,3 +17,7 @@
 	url = https://github.com/thedev-junyoung/hanghae-plus-5wd.git
 	branch = main
 
+[submodule "hanghae-plus-6wd"]
+	path = hanghae-plus-6wd
+	url = https://github.com/thedev-junyoung/hanghae-plus-6wd.git
+	branch = main
