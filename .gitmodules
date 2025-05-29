@@ -25,3 +25,9 @@
 [submodule "hanghae-plus-7wd"]
 	path = hanghae-plus-7wd
 	url = https://github.com/thedev-junyoung/hanghae-plus-7wd
+[submodule "hanghae-plus-9wd"]
+	path = hanghae-plus-9wd
+	url = https://github.com/thedev-junyoung/hanghae-plus-9wd.git
+[submodule "hanghae-plus-8wd"]
+	path = hanghae-plus-8wd
+	url = https://github.com/thedev-junyoung/hanghae-plus-8wd.git
